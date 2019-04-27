@@ -1,2 +1,2 @@
 # color-game
-sample project
+preview this project >> https://mshowkat.github.io/color-game/
